@@ -1,0 +1,8 @@
+{
+  "extend": "minecraft:item/wooden_pickaxe",
+  "values": {
+    "minecraft:enchantability": 0,
+    "minecraft:unbreakable": 1,
+    "minecraft:can_destroy": ["minecraft:stone", "minecraft:iron_ore"]
+  }
+}
